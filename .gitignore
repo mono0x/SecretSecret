@@ -1,0 +1,5 @@
+SecretSecret/bin
+SecretSecret/obj
+*.csproj.user
+*.suo
+
